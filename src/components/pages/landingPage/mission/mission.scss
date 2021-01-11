@@ -1,0 +1,31 @@
+.mission-container{
+    width:100vw;
+    height:100vh;
+    background-color: #02060b;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.mission-heading{
+    width:80%;
+    height: 15%;
+    background-color:#02060B;
+    display:flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 35pt;
+    letter-spacing: 13pt;
+    color:whitesmoke;
+}
+   
+}
+.mission-content{
+
+    width:90%;
+    height:90%;
+
+    background-color: #05090F;
+}

@@ -1,0 +1,11 @@
+p {
+  color: #aaa;
+  text-align: center;
+}
+
+.AboutWrapper {
+  padding: 5%;
+  position: relative;
+
+  width: 100%;
+}
