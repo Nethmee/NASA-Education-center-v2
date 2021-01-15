@@ -12,7 +12,7 @@ import Mission from './mission/mission';
  class home extends Component {
     render() {
         y;
-        x;
+        queueMicrotask;
         return (
             <> 
            
