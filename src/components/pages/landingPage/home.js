@@ -14,8 +14,6 @@ import Mission from './mission/mission';
         y;
         queueMicrotask;
         XMLDocument;
-
-        
         return (
             <> 
            
