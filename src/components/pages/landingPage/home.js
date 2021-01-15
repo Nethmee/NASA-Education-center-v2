@@ -10,7 +10,7 @@ import NewsLetter from './news letter/newsLetter';
 import Mission from './mission/mission';
 
  class home extends Component {
-     test;
+     test;;;
     render() {
         return (
             <> 
